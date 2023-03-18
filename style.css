@@ -1,0 +1,20 @@
+body
+{
+    background-size: cover;
+    text-align: center;
+}
+input
+{
+    height: 5%;
+    width: 20%;
+}
+button
+{
+    height: 5%;
+    width: 7%;
+    border-radius: 20px;
+}
+canvas
+{
+    box-shadow: 5px 5px 5px blue;
+}
